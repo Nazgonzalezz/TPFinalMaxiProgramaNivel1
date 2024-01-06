@@ -1,0 +1,16 @@
+C:\Users\Lenovo_PC\OneDrive\Escritorio\Curso de c# nivel 1\trabajoPractico\TPfinal_GonzalezNazarenaAraceli\obj\Debug\net5.0\TPfinal_GonzalezNazarenaAraceli.csproj.AssemblyReference.cache
+C:\Users\Lenovo_PC\OneDrive\Escritorio\Curso de c# nivel 1\trabajoPractico\TPfinal_GonzalezNazarenaAraceli\obj\Debug\net5.0\TPfinal_GonzalezNazarenaAraceli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo_PC\OneDrive\Escritorio\Curso de c# nivel 1\trabajoPractico\TPfinal_GonzalezNazarenaAraceli\obj\Debug\net5.0\TPfinal_GonzalezNazarenaAraceli.AssemblyInfoInputs.cache
+C:\Users\Lenovo_PC\OneDrive\Escritorio\Curso de c# nivel 1\trabajoPractico\TPfinal_GonzalezNazarenaAraceli\obj\Debug\net5.0\TPfinal_GonzalezNazarenaAraceli.AssemblyInfo.cs
+C:\Users\Lenovo_PC\OneDrive\Escritorio\Curso de c# nivel 1\trabajoPractico\TPfinal_GonzalezNazarenaAraceli\obj\Debug\net5.0\TPfinal_GonzalezNazarenaAraceli.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo_PC\OneDrive\Escritorio\Curso de c# nivel 1\trabajoPractico\TPfinal_GonzalezNazarenaAraceli\bin\Debug\net5.0\TPfinal_GonzalezNazarenaAraceli.exe
+C:\Users\Lenovo_PC\OneDrive\Escritorio\Curso de c# nivel 1\trabajoPractico\TPfinal_GonzalezNazarenaAraceli\bin\Debug\net5.0\TPfinal_GonzalezNazarenaAraceli.deps.json
+C:\Users\Lenovo_PC\OneDrive\Escritorio\Curso de c# nivel 1\trabajoPractico\TPfinal_GonzalezNazarenaAraceli\bin\Debug\net5.0\TPfinal_GonzalezNazarenaAraceli.runtimeconfig.json
+C:\Users\Lenovo_PC\OneDrive\Escritorio\Curso de c# nivel 1\trabajoPractico\TPfinal_GonzalezNazarenaAraceli\bin\Debug\net5.0\TPfinal_GonzalezNazarenaAraceli.runtimeconfig.dev.json
+C:\Users\Lenovo_PC\OneDrive\Escritorio\Curso de c# nivel 1\trabajoPractico\TPfinal_GonzalezNazarenaAraceli\bin\Debug\net5.0\TPfinal_GonzalezNazarenaAraceli.dll
+C:\Users\Lenovo_PC\OneDrive\Escritorio\Curso de c# nivel 1\trabajoPractico\TPfinal_GonzalezNazarenaAraceli\bin\Debug\net5.0\ref\TPfinal_GonzalezNazarenaAraceli.dll
+C:\Users\Lenovo_PC\OneDrive\Escritorio\Curso de c# nivel 1\trabajoPractico\TPfinal_GonzalezNazarenaAraceli\bin\Debug\net5.0\TPfinal_GonzalezNazarenaAraceli.pdb
+C:\Users\Lenovo_PC\OneDrive\Escritorio\Curso de c# nivel 1\trabajoPractico\TPfinal_GonzalezNazarenaAraceli\obj\Debug\net5.0\TPfinal_GonzalezNazarenaAraceli.dll
+C:\Users\Lenovo_PC\OneDrive\Escritorio\Curso de c# nivel 1\trabajoPractico\TPfinal_GonzalezNazarenaAraceli\obj\Debug\net5.0\ref\TPfinal_GonzalezNazarenaAraceli.dll
+C:\Users\Lenovo_PC\OneDrive\Escritorio\Curso de c# nivel 1\trabajoPractico\TPfinal_GonzalezNazarenaAraceli\obj\Debug\net5.0\TPfinal_GonzalezNazarenaAraceli.pdb
+C:\Users\Lenovo_PC\OneDrive\Escritorio\Curso de c# nivel 1\trabajoPractico\TPfinal_GonzalezNazarenaAraceli\obj\Debug\net5.0\TPfinal_GonzalezNazarenaAraceli.genruntimeconfig.cache
